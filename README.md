@@ -1,7 +1,7 @@
 
 # Serwery Survival
 Najlepsze [serwery survival](https://mcserwery.pl/serwery/minecraft/tryb/Survival)
-Ostatnia aktualizacja 2024-07-19 15:36
+Ostatnia aktualizacja 2024-07-19 16:36
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 142/2000 | 49 |
@@ -27,10 +27,10 @@ Ostatnia aktualizacja 2024-07-19 15:36
 | 21 | 	[mc.silvania.pl](https://mcserwery.pl/serwery/minecraft/752/) | --- [ SILVANIA 1.21 ] --- DOLACZ, I ZACZNIJ NOWA PRZYGODE! | 0/100 | 2 |
 | 22 | 	[mcosada.pl](https://mcserwery.pl/serwery/minecraft/65/) | ♑ MCOSADA.PL ♑ Wersja: 1.8.x-1.20.4  NOWA EDYCJA ONEBLOCKA 1.20.4 WYSTARTOWALA! | 73/1337 | 1 |
 | 23 | 	[uwu.bedrockhost.pl](https://mcserwery.pl/serwery/minecraft/101/) | UwU.BedrockHost.pl  1.7.2-1.21 Zapraszamy! | 1/100 | 1 |
-| 24 | 	[cubestorm.pl](https://mcserwery.pl/serwery/minecraft/334/) | 1.16  CubeStorm  1.21 OneBlock: Nowa edycja wystartowała! | 13/250 | 1 |
-| 25 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ᴋᴜᴍᴘʟᴇᴍᴄ.ᴘʟ [ꜱᴜʀᴠɪᴠᴀʟ 1.21] [ᴋɪᴛᴘᴠᴘ] [ʟɪꜰᴇꜱᴛᴇᴀʟ]  ᴡᴀᴋᴀᴄʏᴊɴᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.21 ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 82/777 | 1 |
-| 26 | 	[mineland.net](https://mcserwery.pl/serwery/minecraft/497/) |  Mineland Network » 1.8-1.21 [PvP 1.8] ➥ Become a real HERO ➜ mineland.net | 981/3227 | 1 |
-| 27 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ ɪɴɴᴏᴡᴀᴄʏᴊɴʏ ꜱᴇʀᴡᴇʀ (1.16 - 1.20.4) HARD└ Informacje co Was czeka na discord | 0/1 | 1 |
-| 28 | 	[ggmc.pl](https://mcserwery.pl/serwery/minecraft/38/) | GGMC.PL  FRAKCJE - FREEBUILD - SKYBLOCK - SURVIVAL | 0/200 | 1 |
-| 29 | 	[airhub.pl](https://mcserwery.pl/serwery/minecraft/366/) | AirHub.PL [1.16 - 1.20]   Nowa edycja Anarchia FFA już niebawem... | 0/1 | 1 |
-| 30 | 	[deeria.pl](https://mcserwery.pl/serwery/minecraft/635/) | deeria.pl • mini survival 1.20.6{ ᴏᴛᴡᴀʀᴄɪᴇ ᴇɴᴅᴜ } | 0/50 | 1 |
+| 24 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ᴋᴜᴍᴘʟᴇᴍᴄ.ᴘʟ [ꜱᴜʀᴠɪᴠᴀʟ 1.21] [ᴋɪᴛᴘᴠᴘ] [ʟɪꜰᴇꜱᴛᴇᴀʟ]  ᴡᴀᴋᴀᴄʏᴊɴᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.21 ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 82/777 | 1 |
+| 25 | 	[mineland.net](https://mcserwery.pl/serwery/minecraft/497/) |  Mineland Network » 1.8-1.21 [PvP 1.8] ➥ Become a real HERO ➜ mineland.net | 981/3227 | 1 |
+| 26 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ ɪɴɴᴏᴡᴀᴄʏᴊɴʏ ꜱᴇʀᴡᴇʀ (1.16 - 1.20.4) HARD└ Informacje co Was czeka na discord | 0/1 | 1 |
+| 27 | 	[ggmc.pl](https://mcserwery.pl/serwery/minecraft/38/) | GGMC.PL  FRAKCJE - FREEBUILD - SKYBLOCK - SURVIVAL | 0/200 | 1 |
+| 28 | 	[airhub.pl](https://mcserwery.pl/serwery/minecraft/366/) | AirHub.PL [1.16 - 1.20]   Nowa edycja Anarchia FFA już niebawem... | 0/1 | 1 |
+| 29 | 	[deeria.pl](https://mcserwery.pl/serwery/minecraft/635/) | deeria.pl • mini survival 1.20.6{ ᴏᴛᴡᴀʀᴄɪᴇ ᴇɴᴅᴜ } | 0/50 | 1 |
+| 30 | 	[wywrotkamc.pl](https://mcserwery.pl/serwery/minecraft/6/) | HOTMC.PL & WywrotkaMC.PL [1.20.2] [8Byte-X]: Szykujemy dla was serwer! Pracuje !@#$% | 1/200 | 0 |
