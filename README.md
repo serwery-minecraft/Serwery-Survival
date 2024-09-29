@@ -1,36 +1,36 @@
 
 # Serwery Survival
 Najlepsze [serwery survival](https://mcserwery.pl/serwery/minecraft/tryb/Survival)
-Ostatnia aktualizacja 2024-09-29 15:39
+Ostatnia aktualizacja 2024-09-29 16:39
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoxPvP NOWA EDYCJA WYSTARTOWALA | 238/2000 | 49 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoxPvP NOWA EDYCJA WYSTARTOWALA | 223/2000 | 49 |
 | 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA GILDIE 1.21 JUż WYSTARTOWALA! | 1869/2000 | 279 |
-| 3 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL " Strona: InkMC.pl, kod PREZENT -25% TRYB sURVIVAL 1.21.1 WYsTARTOWAL, ZAPRAsZAMY! :D | 1403/1404 | 11 |
-| 4 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.21.1 NOWA EDYCJA! SURVIVALBEZEKO 1.21 DZISIAJ 18:00 | 440/1000 | 10 |
-| 5 | 	[mc.cs2pl.pl](https://mcserwery.pl/serwery/minecraft/783/) | MCK  Selekcja [Survival] CS2PL.pl | 8/60 | 8 |
+| 3 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL " Strona: InkMC.pl, kod PREZENT -25% TRYB sURVIVAL 1.21.1 WYsTARTOWAL, ZAPRAsZAMY! :D | 1394/1395 | 11 |
+| 4 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.21.1 NOWA EDYCJA! SURVIVALBEZEKO 1.21 DZISIAJ 18:00 | 416/1000 | 10 |
+| 5 | 	[mc.cs2pl.pl](https://mcserwery.pl/serwery/minecraft/783/) | MCK  Selekcja [Survival] CS2PL.pl | 4/60 | 8 |
 | 6 | 	[axolotlmc.pl](https://mcserwery.pl/serwery/minecraft/251/) | AxolotlMC ❤ Survival bez griefu i resetow map.O ja Cie! Czy to Lvcass?! ~Bek00 ✨ | 5/20 | 7 |
 | 7 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) | Survival, Frakcje, DziaBki - Promocja\! Darmowy ProVIP - wpisz /promocja Wersja 1.8-1.21 Wbijaj\! | 1/2024 | 6 |
-| 8 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & KretMC.pl  ItemShop kretmc.pl & Stoimy na Hostingu PepeHost.pl | 87/1000 | 5 |
-| 9 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21 ⭐ NIEDZIELNE LATANIE | 243/500 | 5 |
-| 10 | 	[hienatm.pl](https://mcserwery.pl/serwery/minecraft/764/) | HienaTM.PL - Darmowe klucze o 19:00 Start trybu PvE Już dzisiaj 18:00 | 1/30 | 5 |
+| 8 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & KretMC.pl  ItemShop kretmc.pl & Stoimy na Hostingu PepeHost.pl | 76/1000 | 5 |
+| 9 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21 ⭐ NIEDZIELNE LATANIE | 236/500 | 5 |
+| 10 | 	[hienatm.pl](https://mcserwery.pl/serwery/minecraft/764/) | HienaTM.PL - Darmowe klucze o 19:00 Start trybu PvE Już dzisiaj 18:00 | 2/30 | 5 |
 | 11 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × SKLEP: WWW.CRAFTCUBE.PL!  NOWA EDYCJA SURVIVAL 1.20 JUZ WYSTARTOWALA! | 2516/2115 | 4 |
 | 12 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- i Wbij i zostan graczem TOP1 na SKYBLOCK 1.21 i | 362/1000 | 4 |
-| 13 | 	[s1.icsv.pl](https://mcserwery.pl/serwery/minecraft/286/) |  s1.MCKC.PL × Siec serwerow minecraft 1.8 - 1.21 SURVIVAL  ONEBLOCK  BOXPVP  ANARCHIA  ⭐ LIFESTEAL  MEGADROP  PVP  MEGAENCHANT  CHESTPVP  MINIGRY  SKYBLOCK  GIL | 2972/0 | 4 |
+| 13 | 	[s1.icsv.pl](https://mcserwery.pl/serwery/minecraft/286/) |  s1.MCKC.PL × Siec serwerow minecraft 1.8 - 1.21 SURVIVAL  ONEBLOCK  BOXPVP  ANARCHIA  ⭐ LIFESTEAL  MEGADROP  PVP  MEGAENCHANT  CHESTPVP  MINIGRY  SKYBLOCK  GIL | 3611/0 | 4 |
 | 14 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | Serwer nie posiada motd | 51/200 | 3 |
-| 15 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  1.8 - 1.20.4 Boost Kredek Dzisiaj 19:00 - 22:00 az +1000% | 2639/20000 | 2 |
-| 16 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb: MegaDrop 1.8.8 już WYSTARTOWAL! :) :D " Graczy: {ONLINE_PLAYERS}/2000 " | 535/536 | 2 |
+| 15 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  1.8 - 1.20.4 Boost Kredek Dzisiaj 19:00 - 22:00 az +1000% | 2618/20000 | 2 |
+| 16 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb: MegaDrop 1.8.8 już WYSTARTOWAL! :) :D " Graczy: {ONLINE_PLAYERS}/2000 " | 574/575 | 2 |
 | 17 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | NETHERSTORM ツ DISCORD: WWW.NSSV.PL/DISCORD × Nowa edycja PVP w piatek o 19:00! | 343/347 | 2 |
-| 18 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.21.1 Event weekendowy ' Piniata Party co 60 minut | 34/200 | 2 |
-| 19 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! 10-17 DROP KSIażEK x2  17-21 DROP KSIażEK x5 | 2077/1 | 2 |
-| 20 | 	[krainamc.pl](https://mcserwery.pl/serwery/minecraft/39/) | KrainaMc.pl  Zagraj juz teraz razem z nami! | 19/500 | 2 |
+| 18 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.21.1 Event weekendowy ' Piniata Party co 60 minut | 41/200 | 2 |
+| 19 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! 10-17 DROP KSIażEK x2  17-21 DROP KSIażEK x5 | 2025/1 | 2 |
+| 20 | 	[krainamc.pl](https://mcserwery.pl/serwery/minecraft/39/) | KrainaMc.pl  Zagraj juz teraz razem z nami! | 27/500 | 2 |
 | 21 | 	[swiftcore.pl](https://mcserwery.pl/serwery/minecraft/60/) | Serwer nie posiada motd | 1/100 | 2 |
 | 22 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! Konkursy i eventy " Questy " Dzialki " WBIJAJ! | 113/777 | 2 |
-| 23 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21 ◀  ▶ NOWY TRYB  OneBlock 1.21  JUZ OTWARTE! ◀ | 45/420 | 2 |
-| 24 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL → 15:00, 17:00, 19:00 DARMOWE KLUCZE!  OGROMNY UPDATE ANARCHII, 5 NOWYCH ITEMKoW! | 521/2000 | 2 |
+| 23 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21 ◀  ▶ NOWY TRYB  OneBlock 1.21  JUZ OTWARTE! ◀ | 42/420 | 2 |
+| 24 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL → 15:00, 17:00, 19:00 DARMOWE KLUCZE!  OGROMNY UPDATE ANARCHII, 5 NOWYCH ITEMKoW! | 462/2000 | 2 |
 | 25 | 	[mc.soukercraft.eu](https://mcserwery.pl/serwery/minecraft/533/) | -[Pracujemy nad nowa edycja Survival i wiecej!]- | 4/200 | 2 |
 | 26 | 	[easysurvival.pl](https://mcserwery.pl/serwery/minecraft/736/) | ES  DZIEKUJEMY ZA PIERWSZA EDYCJE! ❤ " Zmieniaj wersje na 1.16.5 i wbijaj! :> | 1/1 | 2 |
 | 27 | 	[craftdream.pl](https://mcserwery.pl/serwery/minecraft/746/) | Serwer Hostowany na IceHost.pl | 0/20 | 2 |
-| 28 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ INNOWACYJNY SERWER (1.16 - 1.20.4) HARD└ Updating...  90%... | 2/3 | 1 |
-| 29 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 807/2000 | 1 |
-| 30 | 	[mcosada.pl](https://mcserwery.pl/serwery/minecraft/65/) | ♑ MCOSADA.PL ♑ Wersja: 1.8.x-1.20.4  NOWA EDYCJA ONEBLOCKA 1.20.4 WYSTARTOWALA! | 34/1337 | 1 |
+| 28 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ INNOWACYJNY SERWER (1.16 - 1.20.4) HARD└ Updating...  90%... | 3/4 | 1 |
+| 29 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 850/2000 | 1 |
+| 30 | 	[mcosada.pl](https://mcserwery.pl/serwery/minecraft/65/) | ♑ MCOSADA.PL ♑ Wersja: 1.8.x-1.20.4  NOWA EDYCJA ONEBLOCKA 1.20.4 WYSTARTOWALA! | 53/1337 | 1 |
