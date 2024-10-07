@@ -1,7 +1,7 @@
 
 # Serwery Survival
 Najlepsze [serwery survival](https://mcserwery.pl/serwery/minecraft/tryb/Survival)
-Ostatnia aktualizacja 2024-10-07 21:39
+Ostatnia aktualizacja 2024-10-07 22:39
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoxPvP NOWA EDYCJA WYSTARTOWALA | 173/2000 | 49 |
@@ -15,7 +15,7 @@ Ostatnia aktualizacja 2024-10-07 21:39
 | 9 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21 ⭐ NOWA EDYCJA WBIJAJ | 174/500 | 5 |
 | 10 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- i Wbij i zostan graczem TOP1 na SKYBLOCK 1.21 i | 255/1000 | 5 |
 | 11 | 	[hienatm.pl](https://mcserwery.pl/serwery/minecraft/764/) | HienaTM.PL - Darmowe klucze o 19:00 TRYB MULTIBLOCK JUŻ WYSTARTOWAŁ! | 1/30 | 5 |
-| 12 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × SKLEP: WWW.CRAFTCUBE.PL!  NOWA EDYCJA LIFESTEAL W SRODE GODZ. 18.00! | 2024/2115 | 4 |
+| 12 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × SKLEP: WWW.CRAFTCUBE.PL!  NOWA EDYCJA LIFESTEAL W SRODE GODZ. 18.00! | 1217/2115 | 4 |
 | 13 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | Serwer nie posiada motd | 33/200 | 4 |
 | 14 | 	[s1.icsv.pl](https://mcserwery.pl/serwery/minecraft/286/) |  s1.MCKC.PL × Siec serwerow minecraft 1.8 - 1.21 SURVIVAL  ONEBLOCK  BOXPVP  ANARCHIA  ⭐ LIFESTEAL  MEGADROP  PVP  MEGAENCHANT  CHESTPVP  MINIGRY  SKYBLOCK  GIL | 2617/0 | 4 |
 | 15 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL → sKLEP.ACMC.PL REKORD 530 GRACZY NA ANARCHII, DZIEKUJEMY! ❤ | 287/2000 | 3 |
@@ -28,9 +28,9 @@ Ostatnia aktualizacja 2024-10-07 21:39
 | 22 | 	[swiftcore.pl](https://mcserwery.pl/serwery/minecraft/60/) | Serwer nie posiada motd | 2/500 | 2 |
 | 23 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! Konkursy i eventy " Questy " Dzialki " WBIJAJ! | 115/777 | 2 |
 | 24 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21 ◀  ▶ ONEBLOCK  PVP  CREATIVE  AGESKYBLOCK ◀ | 12/420 | 2 |
-| 25 | 	[mc.soukercraft.eu](https://mcserwery.pl/serwery/minecraft/533/) | -[Pracujemy nad nowa edycja Survival i wiecej!]- | 1/200 | 2 |
-| 26 | 	[easysurvival.pl](https://mcserwery.pl/serwery/minecraft/736/) | ES  DZIEKUJEMY ZA PIERWSZA EDYCJE! ❤ " Zmieniaj wersje na 1.16.5 i wbijaj! :> | 3/1 | 2 |
-| 27 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL [1.15-1.21] ONEBLOCK: Nowa edycja 18.10.2024 o 19:00! | 55/300 | 2 |
-| 28 | 	[craftdream.pl](https://mcserwery.pl/serwery/minecraft/746/) | Serwer Hostowany na IceHost.pl | 1/20 | 2 |
+| 25 | 	[easysurvival.pl](https://mcserwery.pl/serwery/minecraft/736/) | ES  DZIEKUJEMY ZA PIERWSZA EDYCJE! ❤ " Zmieniaj wersje na 1.16.5 i wbijaj! :> | 3/1 | 2 |
+| 26 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL [1.15-1.21] ONEBLOCK: Nowa edycja 18.10.2024 o 19:00! | 55/300 | 2 |
+| 27 | 	[craftdream.pl](https://mcserwery.pl/serwery/minecraft/746/) | Serwer Hostowany na IceHost.pl | 1/20 | 2 |
+| 28 | 	[mc.soukercraft.eu](https://mcserwery.pl/serwery/minecraft/533/) | -[Pracujemy nad nowa edycja Survival i wiecej!]- | 0/200 | 2 |
 | 29 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 441/2000 | 1 |
 | 30 | 	[mcosada.pl](https://mcserwery.pl/serwery/minecraft/65/) | ♑ MCOSADA.PL ♑ Wersja: 1.8.x-1.20.4  NOWA EDYCJA ONEBLOCKA 1.20.4 WYSTARTOWALA! | 48/1337 | 1 |
