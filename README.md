@@ -1,12 +1,12 @@
 
 # Serwery Survival
 Najlepsze [serwery survival](https://mcserwery.pl/serwery/minecraft/tryb/Survival)
-Ostatnia aktualizacja 2024-10-08 14:39
+Ostatnia aktualizacja 2024-10-08 15:39
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | Serwer nie posiada motd | 136/2000 | 49 |
-| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SV+GILDIE już WYSTARTOWAŁA! | 871/2000 | 287 |
-| 3 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | Serwer jest dostepny na wersje 1.16+! | 484/485 | 12 |
+| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SV+GILDIE już WYSTARTOWAŁA! | 871/2000 | 288 |
+| 3 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | Serwer jest dostepny na wersje 1.16+! | 838/839 | 12 |
 | 4 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.21.1 WBIJAJ NA NOWĄ EDYCJE SURVIVAL BEZ EKO 1.21! | 208/1000 | 10 |
 | 5 | 	[mc.cs2pl.pl](https://mcserwery.pl/serwery/minecraft/783/) | MCK  Selekcja [Survival] CS2PL.pl | 4/60 | 8 |
 | 6 | 	[axolotlmc.pl](https://mcserwery.pl/serwery/minecraft/251/) | AxolotlMC ❤ Survival bez griefu i resetow map.interent 2:0 kuti ~kul2 ✨ | 0/20 | 7 |
@@ -27,7 +27,7 @@ Ostatnia aktualizacja 2024-10-08 14:39
 | 21 | 	[krainamc.pl](https://mcserwery.pl/serwery/minecraft/39/) | KrainaMc.pl  Zagraj juz teraz razem z nami! | 8/500 | 2 |
 | 22 | 	[swiftcore.pl](https://mcserwery.pl/serwery/minecraft/60/) | Serwer nie posiada motd | 1/500 | 2 |
 | 23 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! Konkursy i eventy " Questy " Dzialki " WBIJAJ! | 50/777 | 2 |
-| 24 | 	[mc.soukercraft.eu](https://mcserwery.pl/serwery/minecraft/533/) | -[Pracujemy nad nowa edycja Survival i wiecej!]- | 1/200 | 2 |
+| 24 | 	[mc.soukercraft.eu](https://mcserwery.pl/serwery/minecraft/533/) | -[Pracujemy nad nowa edycja Survival i wiecej!]- | 2/200 | 2 |
 | 25 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL [1.15-1.21] ONEBLOCK: Nowa edycja 18.10.2024 o 19:00! | 21/300 | 2 |
 | 26 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21 ◀  ▶ ONEBLOCK  PVP  CREATIVE  AGESKYBLOCK ◀ | 0/420 | 2 |
 | 27 | 	[easysurvival.pl](https://mcserwery.pl/serwery/minecraft/736/) | ES  DZIEKUJEMY ZA PIERWSZA EDYCJE! ❤ " Zmieniaj wersje na 1.16.5 i wbijaj! :> | 0/1 | 2 |
