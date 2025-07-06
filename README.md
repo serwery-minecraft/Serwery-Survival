@@ -1,36 +1,36 @@
 
 # Serwery Survival
 Najlepsze [serwery survival](https://mcserwery.pl/serwery/minecraft/tryb/Survival)
-Ostatnia aktualizacja 2025-07-06 11:15
+Ostatnia aktualizacja 2025-07-06 12:15
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 304/2000 | 69 |
-| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 436/500 | 154 |
-| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SkyBlock 1.12.2 start PIATEK 18:00! | 1184/2000 | 514 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 385/2000 | 69 |
+| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 484/500 | 154 |
+| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl Nowa edycja SkyBlock 1.12.2 start PIATEK 18:00! | 1622/2000 | 515 |
 | 4 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | KOCIAKMC.PL 🚀 [SV+EKO+DZIAŁKI 1.21.4] 🎁 Nowe kosmetyki już są! Sprawdź na /kosmetyki | 63/180 | 34 |
-| 5 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 217/218 | 29 |
+| 5 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 402/403 | 29 |
 | 6 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | 🔪 BFSMC.PL - Survival, OneBlock 1.21.4 🔪 NOWA EDYCJA EKO JUŻ Z A C H W I L E | 98/500 | 17 |
 | 7 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | CraftBlock.pl » Survival 1.21.4 ¦ BedWars ¦ Zapraszamy do wspólnej gry na serwerze! | 121/400 | 14 |
-| 8 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × NAJLEPSZE CHESTPVP! ♥ EARTHSMP ➦ NOWA EDYCJA W SOBOTE GODZ. 18:00! ★ | 750/5000 | 12 |
+| 8 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × NAJLEPSZE CHESTPVP! ♥ EARTHSMP ➦ NOWA EDYCJA W SOBOTE GODZ. 18:00! ★ | 1418/5000 | 12 |
 | 9 | 	[laina.pl](https://mcserwery.pl/serwery/minecraft/165/) | Laina.pl 1.21.6 Survival RPG bez resetu mapy Event Wakacyjny i Happy Ghasty! | 9/99 | 10 |
 | 10 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21 ⭐ NIEDZIELNE LATANIE | 132/500 | 7 |
 | 11 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AXelCraft.pl [1.19.3+] -]--- » JUż JEST! - Fabuła Generała - SV+DZIALKI « | 146/1000 | 7 |
 | 12 | 	[pikomc.pl](https://mcserwery.pl/serwery/minecraft/944/) | Serwer nie posiada motd | 1918/6000 | 7 |
 | 13 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & KretMC.pl  ItemShop » kretmc.pl & Legendarna skrzynia została ulepszona! | 33/1000 | 6 |
-| 14 | 	[mc.ironage.pl](https://mcserwery.pl/serwery/minecraft/275/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY TRYB KITPVP JUŻ DZIAŁA! <3 | 50/300 | 6 |
+| 14 | 	[mc.ironage.pl](https://mcserwery.pl/serwery/minecraft/275/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY TRYB KITPVP JUŻ DZIAŁA! <3 | 69/300 | 6 |
 | 15 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 147/2000 | 5 |
-| 16 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! Graj tak jak Ci wygodnie. Dołącz teraz! | 32/1000 | 5 |
-| 17 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Update OG SKYGEN juz jest! WAKACYJY SEZON BedWars wystartowal! | 832/20000 | 4 |
-| 18 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: WIELKA PROMOCJA! ❤ » -30% NA RANGI I PAKIETY! sklep.cpvp.pl ❤ | 281/1000 | 4 |
-| 19 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL → DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁  JUż DZISIAJ STARTUJE EVENT PIRACKI WBIJAJ! | 37/1000 | 4 |
-| 20 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY TRYB KITPVP JUŻ DZIAŁA! <3 | 54/300 | 4 |
-| 21 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  ◄ SURVIVAL ┃ BOXPVP ┃ SKYBLOCK ┃ SKYGEN ► | 37/38 | 3 |
-| 22 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21.5 ◀ ▶ ONEBLOCK  PVP  CREATIVE  AGESKYBLOCK ◀ | 1/420 | 3 |
+| 16 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! Graj tak jak Ci wygodnie. Dołącz teraz! | 55/1000 | 5 |
+| 17 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Update OG SKYGEN juz jest! WAKACYJY SEZON BedWars wystartowal! | 1670/20000 | 4 |
+| 18 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: WIELKA PROMOCJA! ❤ » -30% NA RANGI I PAKIETY! sklep.cpvp.pl ❤ | 448/1000 | 4 |
+| 19 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL → DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁  JUż DZISIAJ STARTUJE EVENT PIRACKI WBIJAJ! | 63/1000 | 4 |
+| 20 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY TRYB KITPVP JUŻ DZIAŁA! <3 | 75/300 | 4 |
+| 21 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  ◄ SURVIVAL ┃ BOXPVP ┃ SKYBLOCK ┃ SKYGEN ► | 46/47 | 3 |
+| 22 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21.5 ◀ ▶ ONEBLOCK  PVP  CREATIVE  AGESKYBLOCK ◀ | 10/420 | 3 |
 | 23 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL ZAOBsERWUJ NAs NA TT.ACMC.PL!  NOWA EDYCJA sURVIVAL 11 LIPCA GODZ. 18:00! | 185/2000 | 3 |
-| 24 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | dc.lowplay.pl ⁕ LOWPLAY.PL ⁕ lowplay.pl DOLADOWANIA X3 NA WWW.LOWPLAY.PL | 36/2025 | 3 |
-| 25 | 	[twinsgame.pl](https://mcserwery.pl/serwery/minecraft/790/) | TWINSMC.PL  ONEBLOCK WYSTARTOWAL  NIEBAWEM NOWA EDYCJA BOXPVP -> INFO NA DC | 2/200 | 3 |
-| 26 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.8.8 juz WYSTARTOWAL! :) » Graczy: {ONLINE_PLAYERS}/4000 « | 199/200 | 2 |
-| 27 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ Najlepszy Survival w Polsce ¦ 1.21.5 WAKACYJNE ZADANIA › TRWA WAKACYJNE GRAND PRIX | 11/200 | 2 |
-| 28 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | MINESTAR.PL /WAKACJE - STAR ZA DARMO! 🔥 SPRAWDź » NOWOśCI NA SKYPVP! 🔥 | 2975/1 | 2 |
-| 29 | 	[hypixel.net](https://mcserwery.pl/serwery/minecraft/33/) | HypiXel Network [1.8-1.21] SB 0.23 FORAGING - SUMMER EVENT | 24015/200000 | 2 |
-| 30 | 	[krainamc.pl](https://mcserwery.pl/serwery/minecraft/39/) | KrainaMc.pl • Creative • Survival • SkyBlock • PvP ▷ Nowa edycja SkyBlock 1.21.5 ma teraz nether! | 4/500 | 2 |
+| 24 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | dc.lowplay.pl ⁕ LOWPLAY.PL ⁕ lowplay.pl DOLADOWANIA X3 NA WWW.LOWPLAY.PL | 64/2025 | 3 |
+| 25 | 	[twinsgame.pl](https://mcserwery.pl/serwery/minecraft/790/) | TWINSMC.PL  ONEBLOCK WYSTARTOWAL  NIEBAWEM NOWA EDYCJA BOXPVP -> INFO NA DC | 3/200 | 3 |
+| 26 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.8.8 juz WYSTARTOWAL! :) » Graczy: {ONLINE_PLAYERS}/4000 « | 514/515 | 2 |
+| 27 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | NETHERSTORM ツ DISCORD: WWW.NSSV.PL/DISCORD  × Zagraj na nowej edycji trybu PvP! | 28/32 | 2 |
+| 28 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ Najlepszy Survival w Polsce ¦ 1.21.5 WAKACYJNE ZADANIA › TRWA WAKACYJNE GRAND PRIX | 15/200 | 2 |
+| 29 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | MINESTAR.PL /WAKACJE - STAR ZA DARMO! 🔥 SPRAWDź » NOWOśCI NA SKYPVP! 🔥 | 2975/1 | 2 |
+| 30 | 	[hypixel.net](https://mcserwery.pl/serwery/minecraft/33/) | HypiXel Network [1.8-1.21] SB 0.23 FORAGING - SUMMER EVENT | 28139/200000 | 2 |
