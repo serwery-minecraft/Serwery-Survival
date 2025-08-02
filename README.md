@@ -1,18 +1,18 @@
 
 # Serwery Survival
 Najlepsze [serwery survival](https://mcserwery.pl/serwery/minecraft/tryb/Survival)
-Ostatnia aktualizacja 2025-08-02 10:16
+Ostatnia aktualizacja 2025-08-02 11:16
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP, OneBlock NOWA EDYCJA ANARCHIA LIFESTEAL WYSTARTOWALA! | 271/2000 | 77 |
-| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 265/500 | 157 |
-| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA ANARCHIA SMP START PIATEK 18:00! | 624/2000 | 539 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP, OneBlock NOWA EDYCJA ANARCHIA LIFESTEAL WYSTARTOWALA! | 324/2000 | 77 |
+| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 358/500 | 157 |
+| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA ANARCHIA SMP START PIATEK 18:00! | 1179/2000 | 539 |
 | 4 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | KOCIAKMC.PL 🚀 [SV+EKO+DZIAŁKI 1.21.4] WIELKI UPDATE ŁOWIENIA! Nowe ryby, i sklep Rybaka! | 25/180 | 34 |
-| 5 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 77/78 | 29 |
-| 6 | 	[mineralmc.pl](https://mcserwery.pl/serwery/minecraft/603/) | Serwer nie posiada motd | 0/100 | 24 |
+| 5 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 231/232 | 29 |
+| 6 | 	[mineralmc.pl](https://mcserwery.pl/serwery/minecraft/603/) | Serwer nie posiada motd | 8/100 | 24 |
 | 7 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | 🔪 BFSMC.PL - Survival, OneBlock 1.21.4 🔪 WBIJAJ NA NOWĄ EDYCJE SV + EKONOMIA 1.21.4 | 116/500 | 17 |
 | 8 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | CraftBlock.pl » Survival 1.21.4 ¦ BedWars ¦ Zapraszamy do wspólnej gry na serwerze! | 112/400 | 14 |
-| 9 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × SZYKUJEMY COS GRUBEGO.. ♥  BOXPVP-PRAC ➦ AKTUALIZACJA + /DARMOWAELITA | 407/5000 | 12 |
+| 9 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × SZYKUJEMY COS GRUBEGO.. ♥  BOXPVP-PRAC ➦ AKTUALIZACJA + /DARMOWAELITA | 771/5000 | 12 |
 | 10 | 	[laina.pl](https://mcserwery.pl/serwery/minecraft/165/) | Laina.pl 1.21.7-.8 Survival RPG bez resetu mapy Event Wakacyjny i Happy Ghasty! | 7/99 | 10 |
 | 11 | 	[latwomc.pl](https://mcserwery.pl/serwery/minecraft/1013/) | Serwer nie posiada motd | 0/500 | 10 |
 | 12 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21.4 ⭐ EVENT sKRZYNKI +300% | 72/500 | 7 |
@@ -20,17 +20,17 @@ Ostatnia aktualizacja 2025-08-02 10:16
 | 14 | 	[pikomc.pl](https://mcserwery.pl/serwery/minecraft/944/) | Serwer nie posiada motd | 2119/6000 | 7 |
 | 15 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & BYNIU i KRET na zawsze » kretmc.pl & Earth SMP » 13 edycja wystartowała! | 21/1000 | 6 |
 | 16 | 	[mc.ironage.pl](https://mcserwery.pl/serwery/minecraft/275/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY EDYCJA EARTHSMP JUŻ TRWA, WBIJAJ! | 45/300 | 6 |
-| 17 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! NOWA EDYCJA SURVIVAL - TEN PIATEK 18:00! | 48/1000 | 6 |
+| 17 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! NOWA EDYCJA SURVIVAL - TEN PIATEK 18:00! | 75/1000 | 6 |
 | 18 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 129/2000 | 5 |
-| 19 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL → DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁ NOWA EDYCJA ANARCHIA FFA JUZ WYSTARTOWALA! | 34/1000 | 5 |
-| 20 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Zagraj na trybie RUST! BOOST Eventow Wakacyjnych na survivalach! | 446/20000 | 4 |
+| 19 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL → DISCORD.GG/KUMPLEMC  ˚⋆｡˚ ☁ NOWA EDYCJA ANARCHIA FFA JUZ WYSTARTOWALA! | 58/1000 | 5 |
+| 20 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Zagraj na trybie RUST! BOOST Eventow Wakacyjnych na survivalach! | 1057/20000 | 4 |
 | 21 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL ANARCHIA DZIALKI GILDIE BOX PVP  ONE BLOCK GAMEMODE sMP sKY GEN BED WARs | 154/2000 | 4 |
-| 22 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: O WIELE TANSZE RANGI! ❤ » ❤ NOWY TRYB - PRACTICE 1.8! ❤ | 180/1000 | 4 |
-| 23 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY EDYCJA EARTHSMP JUŻ TRWA, WBIJAJ! | 39/300 | 4 |
-| 24 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  NOWY sEZON SKYBLOCK JUZ WYsTARTOWAL! 🚀 | 24/25 | 3 |
-| 25 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21.8 ◀ ▶ ONEBLOCK  PVP  CREATIVE  AGESKYBLOCK ◀ | 3/420 | 3 |
-| 26 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | LOWPLAY.PL × 3.0 NADCHODZI... ANAFFA aaa KIT EDYCJA aaa LIFEѕTEAL | 17/2025 | 3 |
-| 27 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.8.8 juz WYSTARTOWAL! :) » Graczy: {ONLINE_PLAYERS}/4000 « | 76/77 | 2 |
+| 22 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: O WIELE TANSZE RANGI! ❤ » ❤ NOWY TRYB - PRACTICE 1.8! ❤ | 350/1000 | 4 |
+| 23 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | MC.IRONAGE.PL X DC.IRONAGE.PL  NOWY EDYCJA EARTHSMP JUŻ TRWA, WBIJAJ! | 57/300 | 4 |
+| 24 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  NOWY sEZON SKYBLOCK JUZ WYsTARTOWAL! 🚀 | 31/32 | 3 |
+| 25 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21.8 ◀ ▶ ONEBLOCK  PVP  CREATIVE  AGESKYBLOCK ◀ | 9/420 | 3 |
+| 26 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | LOWPLAY.PL × 3.0 NADCHODZI... ANAFFA aaa KIT EDYCJA aaa LIFEѕTEAL | 52/2025 | 3 |
+| 27 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.8.8 juz WYSTARTOWAL! :) » Graczy: {ONLINE_PLAYERS}/4000 « | 141/142 | 2 |
 | 28 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | NETHERSTORM ツ DISCORD: WWW.NSSV.PL/DISCORD  × Zagraj na nowej edycji trybu PvP! | 15/19 | 2 |
-| 29 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ Najlepszy Survival w Polsce ¦ 1.21.8 WAKACYJNE ZADANIA #3 › JUŻ WKRÓTCE HAPPY GHASTY! | 5/200 | 2 |
+| 29 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ Najlepszy Survival w Polsce ¦ 1.21.8 WAKACYJNE ZADANIA #3 › JUŻ WKRÓTCE HAPPY GHASTY! | 11/200 | 2 |
 | 30 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | MINESTAR.PL PONIEDZIALEK ➡ AKTUALIZACJA BOXPVP I SKYPVP 🔥 | 2487/1 | 2 |
