@@ -1,10 +1,10 @@
 
 # Serwery Survival
 Najlepsze [serwery survival](https://mcserwery.pl/serwery/minecraft/tryb/Survival)
-Ostatnia aktualizacja 2025-11-16 23:20
+Ostatnia aktualizacja 2025-11-17 00:20
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP, OneBlock NOWA EDYCJA SERWERA WYSTARTOWALA! ✅ | 321/2000 | 97 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP, OneBlock NOWA EDYCJA SERWERA WYSTARTOWALA! ✅ | 242/2000 | 97 |
 | 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 0/500 | 163 |
 | 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA SKYBLOCK 1.21 JUż WYSTARTOWALA! | 976/2000 | 631 |
 | 4 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × ODWIEDŹ NASZE CHESTPVP! ♥  Najlepszy Earth SMP w Polsce tylko u nas! | 593/5000 | 197 |
@@ -13,24 +13,24 @@ Ostatnia aktualizacja 2025-11-16 23:20
 | 7 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | ✧˚ BFSMC.PL 1.21.X - Survival, Działki, SkyBlock DZIŚ O 20:15 EVENT POPCORN NA EKO! | 248/500 | 22 |
 | 8 | 	[craftblock.pl](https://mcserwery.pl/serwery/minecraft/280/) | CraftBlock.pl » Survival 1.21.4 ¦ BedWars ¦ Zapraszamy do wspólnej gry na serwerze! | 98/400 | 15 |
 | 9 | 	[laina.pl](https://mcserwery.pl/serwery/minecraft/165/) | Laina.pl 1.21.10 Survival RPG bez resetu mapy COPPER GOLEMY JUŻ TU SĄ!! | 12/99 | 13 |
-| 10 | 	[minecraft.pl](https://mcserwery.pl/serwery/minecraft/1059/) | Serwer nie posiada motd | 170/3000 | 11 |
+| 10 | 	[minecraft.pl](https://mcserwery.pl/serwery/minecraft/1059/) | Serwer nie posiada motd | 20/3000 | 11 |
 | 11 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.21-1.16] ⭐ Survival 1.21.8 ⭐ NIEDZIELNE LATANIE | 149/500 | 10 |
 | 12 | 	[redstone-mc.pl](https://mcserwery.pl/serwery/minecraft/704/) | [   Redstone-MC.PL ༻ 1.21.X ༺  ]   😈 Działki ◉ Ekonomia ◉ Questy ◉ Duele ◉ Parkoury 😈 | 50/999 | 10 |
 | 13 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! ѕURVIVAL  BOхPVP  DUELѕ  ... (ѕOON) | 35/1000 | 9 |
 | 14 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AXelCraft.pl [1.19.4+] -]--- i Nowa edycja BoXPVP ➡ JUŻ JEST! i | 66/1000 | 8 |
 | 15 | 	[ironage.pl](https://mcserwery.pl/serwery/minecraft/741/) | IRONAGE.PL X DC.IRONAGE.PL  EARTHSMP: Nowa edycja 22 LISTOPAD, 18:00! | 35/300 | 8 |
 | 16 | 	[rgmc.pl](https://mcserwery.pl/serwery/minecraft/34/) | RGMC.PL ✖ 1.8 - 1.18.2 ✖ ► Zapraszamy na najlepszy serwer! ◄ | 311/2000 | 7 |
-| 17 | 	[pikomc.pl](https://mcserwery.pl/serwery/minecraft/944/) | Serwer nie posiada motd | 1350/6000 | 7 |
-| 18 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ✧˚ BFSMC.PL 1.21.X - Survival, Działki, SkyBlock DZIŚ O 20:15 EVENT POPCORN NA EKO! | 257/500 | 6 |
+| 17 | 	[pikomc.pl](https://mcserwery.pl/serwery/minecraft/944/) | Serwer nie posiada motd | 1280/6000 | 7 |
+| 18 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ✧˚ BFSMC.PL 1.21.X - Survival, Działki, SkyBlock DZIŚ O 20:15 EVENT POPCORN NA EKO! | 130/500 | 6 |
 | 19 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL  WBIJAJ POGRAC NA ANARCHIA PRACTICE! | 121/2000 | 6 |
 | 20 | 	[mc.ironage.pl](https://mcserwery.pl/serwery/minecraft/275/) | IRONAGE.PL X DC.IRONAGE.PL  EARTHSMP: Nowa edycja 22 LISTOPAD, 18:00! | 51/300 | 6 |
 | 21 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Zagraj na Survival+Dzialki 1.21.8 Eventy Halloweenowe do godziny 23:59 /cukierki | 2737/20000 | 5 |
-| 22 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL → SURVIVAL 1.21.8  ˚⋆｡˚ ☁ NOWOść! TRYB ANARCHIASMP JUZ WYSTARTOWAL! | 34/1000 | 5 |
+| 22 | 	[kumplemc.pl](https://mcserwery.pl/serwery/minecraft/421/) | ☁ ˚｡⋆˚ KUMPLEMC.PL → SURVIVAL 1.21.8  ˚⋆｡˚ ☁ NOWOść! TRYB ANARCHIASMP JUZ WYSTARTOWAL! | 5/1000 | 5 |
 | 23 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: WYGRAJ 720 ZL! ❤ » ❤ NOWA EDYCJA, POTEZNA AKTYWNOSC! ❤ | 331/1000 | 4 |
 | 24 | 	[dcrft.pl](https://mcserwery.pl/serwery/minecraft/89/) | DragonCraft » Przygoda zaczyna się tutaj ❤ » ⛏ Survival  ✱ SkyBlock  🗡 PvP « | 4/100 | 3 |
 | 25 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  NOWY sEZON SKYBLOCK JUZ WYsTARTOWAL! 🚀 | 63/64 | 3 |
 | 26 | 	[mcgramy.pl](https://mcserwery.pl/serwery/minecraft/197/) | ❤ MCGRAMY.PL [1.8-1.21] ▶ SURVIVAL 1.21.10 ◀ ▶ ONEBLOCK  PVP  CREATIVE  AGESKYBLOCK ◀ | 1/420 | 3 |
 | 27 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | LOWPLAY.PL - KLUCZE CO GODZINE!  NOWA JESIENNA AKTUALIZACJA JUż JEST! | 37/38 | 3 |
-| 28 | 	[globmc.pl](https://mcserwery.pl/serwery/minecraft/846/) | GLOBMC.PL X 1.21.8 X DC.GLOBMC.PL WBIJAJ NA NAJLEPsZY sURVIVAL W POLsCE! | 80/100 | 3 |
-| 29 | 	[keymc.pl](https://mcserwery.pl/serwery/minecraft/1157/) | ✨ TURNMC.PL X Siec serwerow minecraft 1.8-1.21.10 » SURVIVAL GENBLOCK KITPVP BOXPVP ANARCHIA FFA ✅ ONEBLOCK LIFESTEAL PVP MEGAENCHANT PRACTICE SKYBLOCK MEGADROP | 415/2000 | 3 |
-| 30 | 	[likemc.pl](https://mcserwery.pl/serwery/minecraft/1162/) | Serwer nie posiada motd | 4/500 | 3 |
+| 28 | 	[globmc.pl](https://mcserwery.pl/serwery/minecraft/846/) | GLOBMC.PL X 1.21.8 X DC.GLOBMC.PL WBIJAJ NA NAJLEPsZY sURVIVAL W POLsCE! | 43/100 | 3 |
+| 29 | 	[keymc.pl](https://mcserwery.pl/serwery/minecraft/1157/) | ✨ TURNMC.PL X Siec serwerow minecraft 1.8-1.21.10 » SURVIVAL GENBLOCK KITPVP BOXPVP ANARCHIA FFA ✅ ONEBLOCK LIFESTEAL PVP MEGAENCHANT PRACTICE SKYBLOCK MEGADROP | 251/2000 | 3 |
+| 30 | 	[likemc.pl](https://mcserwery.pl/serwery/minecraft/1162/) | Serwer nie posiada motd | 2/500 | 3 |
